@@ -1,6 +1,6 @@
 // Cart
 let cartIcon = document.querySelector('#cart-icon');
-let cart = document.querySelector('.cart'); // Correct selector with class
+let cart = document.querySelector('.cart'); 
 let closeCart = document.querySelector('#close-cart');
 
 // Open Cart
